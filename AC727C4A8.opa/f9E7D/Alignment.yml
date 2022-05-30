@@ -1,0 +1,22 @@
+segment_sources:
+  IB0BA10BA:
+    type: origin_type
+    relation: translation
+    language: en
+  IDBBB1A17:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  61192e254b9d4ab78a84e76bb096908e:
+    IB0BA10BA: b27383b5cba840b588da294fd6963634
+    IDBBB1A17: 33a3b2c482aa4c16b5b9d287c0c2c5b7
+  ed299ab3f60b47fbba976c005631cc8f:
+    IB0BA10BA: a25fbcc8b12a4fed97ec0292fd813f6a
+    IDBBB1A17: 76af89d3eb194e58947d6ae78445228d
+  7c69bc5aafe043159c916f83bb62e684:
+    IB0BA10BA: 12c24c8f7db947b3b44441836eb7e419
+    IDBBB1A17: d0c5c3709d2846a1959efd45d0e8ee0f
+  b99183cc6a8b4f46a5d56f72b6ad3c47:
+    IB0BA10BA: bb23a931080a47eb938b8eac85a807c9
+    IDBBB1A17: 78e3fdd555dc44fa8a08b55f2611cb7f
